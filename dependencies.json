@@ -55,9 +55,9 @@
         "PROJECT_NAME": "sample_ci_cd_otp_assist",
         "PUBLISH_ARTIFACT_ID": "sample_ci_cd_otp_assist",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/umang.arya/sample_cicd_checkoutpro.git",
-        "PUBLISH_VERSION": "1.7.9",
-        "VERSION": "1.7.9",
-        "VERSION_CODE": 12
+        "PUBLISH_VERSION": "1.7.10",
+        "VERSION": "1.7.10",
+        "VERSION_CODE": 13
     },
     {
         "ARITFACT_DEPENDENCIES": [],
