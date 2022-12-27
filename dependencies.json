@@ -15,9 +15,9 @@
         "PROJECT_NAME": "sample_cicd_checkoutpro",
         "PUBLISH_ARTIFACT_ID": "sample_cicd_checkoutpro",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/umang.arya/sample_cicd_checkoutpro.git",
-        "PUBLISH_VERSION": "1.7.7",
-        "VERSION": "1.7.7",
-        "VERSION_CODE": 10
+        "PUBLISH_VERSION": "1.7.8",
+        "VERSION": "1.7.8",
+        "VERSION_CODE": 11
     },
     {
         "ARITFACT_DEPENDENCIES": [
