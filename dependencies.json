@@ -16,8 +16,8 @@
         "PUBLISH_ARTIFACT_ID": "sample_cicd_checkoutpro",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/umang.arya/sample_cicd_checkoutpro.git",
         "PUBLISH_VERSION": "1.7.10",
+        "UPGRADE_MODE": "AUTO",
         "VERSION": "1.7.10",
-        "UPGRADE_MODE":"AUTO",
         "VERSION_CODE": 13
     },
     {
@@ -56,10 +56,10 @@
         "PROJECT_NAME": "sample_ci_cd_otp_assist",
         "PUBLISH_ARTIFACT_ID": "sample_ci_cd_otp_assist",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/umang.arya/sample_cicd_checkoutpro.git",
-        "PUBLISH_VERSION": "1.7.23",
-        "VERSION": "1.7.23",
-        "UPGRADE_MODE":"AUTO",
-        "VERSION_CODE": 28
+        "PUBLISH_VERSION": "1.7.24",
+        "UPGRADE_MODE": "AUTO",
+        "VERSION": "1.7.24",
+        "VERSION_CODE": 29
     },
     {
         "ARITFACT_DEPENDENCIES": [],
@@ -67,8 +67,8 @@
         "PUBLISH_ARTIFACT_ID": "payuanalytics",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/payu/payuanalytics.git",
         "PUBLISH_VERSION": "1.3.1",
+        "UPGRADE_MODE": "AUTO",
         "VERSION": "1.3.1",
-        "UPGRADE_MODE":"AUTO",
         "VERSION_CODE": 8
     },
     {
@@ -77,8 +77,8 @@
         "PUBLISH_ARTIFACT_ID": "native-otp-reader",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/payu/native-otp-reader.git",
         "PUBLISH_VERSION": "1.1.4",
+        "UPGRADE_MODE": "AUTO",
         "VERSION": "1.1.4",
-        "UPGRADE_MODE":"AUTO",
         "VERSION_CODE": 8
     },
     {
@@ -87,8 +87,8 @@
         "PUBLISH_ARTIFACT_ID": "payu-crash-logger",
         "PUBLISH_GIT_URL": "https://gitlab.payu.in/payu/payu-crash-logger.git",
         "PUBLISH_VERSION": "[1.0.4,1.1.0)",
+        "UPGRADE_MODE": "AUTO",
         "VERSION": "1.0.4",
-        "UPGRADE_MODE":"AUTO",
         "VERSION_CODE": 8
     }
 ]
